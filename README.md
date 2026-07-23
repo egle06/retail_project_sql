@@ -1,2 +1,2 @@
 # retail_project_sql
-Pre-entrega 2 SQL – Coderhouse (DDL + DML + restricciones)
+Pre-entrega 2 – Script SQL del proyecto retail
