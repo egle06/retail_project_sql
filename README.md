@@ -10,3 +10,7 @@ Pre-entrega 2 – Script SQL del proyecto retail
 
 ## Archivo principal
 - `retail_project.sql`
+
+## Herramientas de entorno
+- PostgreSQL 16
+- pgAdmin 4 como entorno de administración y ejecución del script
